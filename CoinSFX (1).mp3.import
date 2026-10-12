@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dfpnmo2lvnv0m"
+path="res://.godot/imported/CoinSFX (1).mp3-72604e2a213f4dc53025fd9c41998448.mp3str"
+
+[deps]
+
+source_file="res://CoinSFX (1).mp3"
+dest_files=["res://.godot/imported/CoinSFX (1).mp3-72604e2a213f4dc53025fd9c41998448.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
