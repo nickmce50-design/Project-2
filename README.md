@@ -1,6 +1,6 @@
 Made By Nicholas McEntee 
 
-How to Play -- https://github.com/nickmce50-design/Project-2.git
+How to Play -- [https://github.com/nickmce50-design/Project-2.git](https://nickmce50-design.itch.io/project-2-clicker?secret=1RBinhOQ7ZoLKjasUyCddXi2jLE)
 Download the files and play-- I don't know really how to get the game working other than Godot--
 
 Targeted Experience 
